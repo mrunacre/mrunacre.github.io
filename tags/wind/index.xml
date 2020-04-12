@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>wind | Mark Runacres</title>
+    <link>https://mrunacre.github.io/tags/wind/</link>
+      <atom:link href="https://mrunacre.github.io/tags/wind/index.xml" rel="self" type="application/rss+xml" />
+    <description>wind</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>wind</title>
+      <link>https://mrunacre.github.io/tags/wind/</link>
+    </image>
+    
+    <item>
+      <title>Interaction of closely-spaced vertical-axis wind turbines</title>
+      <link>https://mrunacre.github.io/project/vawt/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/project/vawt/</guid>
+      <description>&lt;p&gt;Vertical-axis wind turbines, when placed close together, have an improved power
+production and very interesting aerodynamics. The experimental side of this
+project is the PhD project of Antoine Vergaerde. The computational side of the
+project is taken care of by Greeshma Boohalli Shivamallegowda.
+Both Antoine and Greeshma are supervised by
+
+&lt;a href=&#34;https://flow.research.vub.be/en/tim-de-troyer&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tim De Troyer&lt;/a&gt; and myself.&lt;/p&gt;
+&lt;p&gt;Although the viability of vertical-axis wind turbines for the production of
+electricity is still open for debate, they may have certain niche applications,
+and definitely have very interesting aerodynamics.&lt;/p&gt;
+&lt;p&gt;We built our own set of scales models, shown above during a wind tunnel test run
+at PoliMi in Italy.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
