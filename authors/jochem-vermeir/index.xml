@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jochem Vermeir | Mark Runacres</title>
+    <link>https://mrunacre.github.io/authors/jochem-vermeir/</link>
+      <atom:link href="https://mrunacre.github.io/authors/jochem-vermeir/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jochem Vermeir</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2015 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jochem Vermeir</title>
+      <link>https://mrunacre.github.io/authors/jochem-vermeir/</link>
+    </image>
+    
+    <item>
+      <title>Feasibility and performance assessment of small and medium-sized wind turbines</title>
+      <link>https://mrunacre.github.io/publication/smwt_jochem/</link>
+      <pubDate>Fri, 10 Apr 2015 00:00:00 +0200</pubDate>
+      <guid>https://mrunacre.github.io/publication/smwt_jochem/</guid>
+      <description>&lt;p&gt;There is considerable uncertainty about the role that small and medium wind
+turbines may play in the production of sustainable electricity. In the present
+work, we identify the main factors affecting the economic viability of small and
+medium wind turbines (herafter SMWTs). We then propose a framework for more
+efficient and reliable predictions of the annual energy production of SMWTs.&lt;/p&gt;
+&lt;p&gt;We
+demonstrate that these turbines are indeed profitable, provided that an
+appropriate turbine is selected and that the annual energy production is
+estimated carefully. These seemingly simple tasks are non-trivial and current
+practices too often lead to unreliable assessments.&lt;/p&gt;
+&lt;p&gt;We first assemble a database of wind turbines with a rated power up to 100 kW.
+Such a database is a necessary tool when assessing the feasibility of a project
+involving SMWTs, since the market is very immature, with a wide variation in
+quality between different turbines.&lt;/p&gt;
+&lt;p&gt;We then calculate the annual energy production (AEP) for a number of measurement
+sites in Belgium and The Netherlands and for different independently-tested
+SMWTs. Based on these data and on first principles, we show what the best
+methods are to select an appropriate turbine and what the expected accuracy is
+of the AEP estimate.
+We have found that a particular statistical error has been overlooked in the
+current methods to estimate the annual energy production. This error is the
+possible mismatch of the averaging times with which wind speeds and turbine
+power outputs are sampled. Using wind speed and power measurements, we show how
+this error can be minimised.&lt;/p&gt;
+&lt;p&gt;Our findings have an immediate practical importance. We therefore apply our
+methods in a number of case studies, and give recommendations for future SMWT
+projects.&lt;/p&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

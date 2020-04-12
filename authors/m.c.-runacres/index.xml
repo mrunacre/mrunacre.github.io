@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M.C. Runacres | Mark Runacres</title>
+    <link>https://mrunacre.github.io/authors/m.c.-runacres/</link>
+      <atom:link href="https://mrunacre.github.io/authors/m.c.-runacres/index.xml" rel="self" type="application/rss+xml" />
+    <description>M.C. Runacres</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 10 Apr 2020 00:00:00 +0200</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>M.C. Runacres</title>
+      <link>https://mrunacre.github.io/authors/m.c.-runacres/</link>
+    </image>
+    
+    <item>
+      <title>Design and manufacturing of a VAWT scale model</title>
+      <link>https://mrunacre.github.io/publication/vawt_design/</link>
+      <pubDate>Fri, 10 Apr 2020 00:00:00 +0200</pubDate>
+      <guid>https://mrunacre.github.io/publication/vawt_design/</guid>
+      <description>&lt;p&gt;This paper describes the
+design, manufacturing and validation of a vertical-axis wind turbine setup for
+wind tunnel tests.&lt;/p&gt;
+&lt;p&gt;The potential of vertical-axis wind turbines (VAWTs) for specific applications
+(floating off-shore or urban in- stallations) has been reconsidered in recent
+years. This renewed interest has led to an increasing number of experimental
+studies on VAWTs. A challenge of experimental work is correctly interpreting
+experimental results but just as important is the design of the experimental
+setup.&lt;/p&gt;
+&lt;p&gt;The objective of the present study is to elaborate on the complete
+development process of a VAWT wind tunnel test setup, from design to aerodynamic
+interpretation. The effect of the design choices and structural characteristics
+of the setup can be traced in the measured torque. The influence of structural
+dynamics of an experimental setup are proven to influence unsteady measurements
+significantly through the analysis of the spectral content of the measured
+torque. An extensive modal analysis of the VAWT rotor allows to link modal
+vibrations to their contaminating effect on the measured torque. In addition,
+the dynamics of the sensors and setup are found to be important contributions to
+the contamination of dynamic measurements. To interpret unsteady torque
+measurements, the complete experimental setup needs to be dynamically
+characterised.&lt;/p&gt;
+&lt;hr&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
