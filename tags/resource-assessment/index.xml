@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Resource assessment | Mark Runacres</title>
+    <link>https://mrunacre.github.io/tags/resource-assessment/</link>
+      <atom:link href="https://mrunacre.github.io/tags/resource-assessment/index.xml" rel="self" type="application/rss+xml" />
+    <description>Resource assessment</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Mar 2017 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Resource assessment</title>
+      <link>https://mrunacre.github.io/tags/resource-assessment/</link>
+    </image>
+    
+    <item>
+      <title>Wind resource assessment over a complex terrain covered by forest using CFD simulations of neutral Atmospheric Boundary Layer with OpenFOAM and MeteoDyn</title>
+      <link>https://mrunacre.github.io/publication/3-e-20-ac-4-fadfb-42-b-79-de-3-a-4-f-05-aedc-2-f-9/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/3-e-20-ac-4-fadfb-42-b-79-de-3-a-4-f-05-aedc-2-f-9/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Improved resource assessment for small wind turbines in rural and urban areas</title>
+      <link>https://mrunacre.github.io/publication/9-fb-40-d-1-c-2-fa-9486988-b-0580-c-197-da-529/</link>
+      <pubDate>Fri, 01 Feb 2013 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/9-fb-40-d-1-c-2-fa-9486988-b-0580-c-197-da-529/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

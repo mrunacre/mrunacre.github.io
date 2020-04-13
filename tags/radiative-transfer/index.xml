@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radiative transfer | Mark Runacres</title>
+    <link>https://mrunacre.github.io/tags/radiative-transfer/</link>
+      <atom:link href="https://mrunacre.github.io/tags/radiative-transfer/index.xml" rel="self" type="application/rss+xml" />
+    <description>Radiative transfer</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 1996 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Radiative transfer</title>
+      <link>https://mrunacre.github.io/tags/radiative-transfer/</link>
+    </image>
+    
+    <item>
+      <title>The infrared and radio continuum of early-type stars</title>
+      <link>https://mrunacre.github.io/publication/7-d-499-f-6-bdc-834-e-7-db-491-b-2-b-6-e-9-e-566-c-2/</link>
+      <pubDate>Mon, 01 Jan 1996 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/7-d-499-f-6-bdc-834-e-7-db-491-b-2-b-6-e-9-e-566-c-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

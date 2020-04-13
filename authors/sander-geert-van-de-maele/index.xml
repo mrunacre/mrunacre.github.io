@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Sander Geert Van de Maele | Mark Runacres</title>
+    <link>https://mrunacre.github.io/authors/sander-geert-van-de-maele/</link>
+      <atom:link href="https://mrunacre.github.io/authors/sander-geert-van-de-maele/index.xml" rel="self" type="application/rss+xml" />
+    <description>Sander Geert Van de Maele</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Sander Geert Van de Maele</title>
+      <link>https://mrunacre.github.io/authors/sander-geert-van-de-maele/</link>
+    </image>
+    
+    <item>
+      <title>Experimental Characterization of VAWT Airfoils Under Turbulent Flows</title>
+      <link>https://mrunacre.github.io/publication/d-22-a-7892-e-028444281-cbf-26-d-44-a-114-fd/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/d-22-a-7892-e-028444281-cbf-26-d-44-a-114-fd/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

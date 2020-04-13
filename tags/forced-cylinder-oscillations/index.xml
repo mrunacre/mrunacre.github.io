@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Forced cylinder oscillations | Mark Runacres</title>
+    <link>https://mrunacre.github.io/tags/forced-cylinder-oscillations/</link>
+      <atom:link href="https://mrunacre.github.io/tags/forced-cylinder-oscillations/index.xml" rel="self" type="application/rss+xml" />
+    <description>Forced cylinder oscillations</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Forced cylinder oscillations</title>
+      <link>https://mrunacre.github.io/tags/forced-cylinder-oscillations/</link>
+    </image>
+    
+    <item>
+      <title>Nonlinear state-space modelling of the kinematics of an oscillating circular cylinder in a fluid flow</title>
+      <link>https://mrunacre.github.io/publication/f-8-c-1-ce-76-c-7504-ca-2-bb-84859-d-43325-aeb/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/f-8-c-1-ce-76-c-7504-ca-2-bb-84859-d-43325-aeb/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

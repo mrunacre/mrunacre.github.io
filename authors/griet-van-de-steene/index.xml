@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Griet Van De Steene | Mark Runacres</title>
+    <link>https://mrunacre.github.io/authors/griet-van-de-steene/</link>
+      <atom:link href="https://mrunacre.github.io/authors/griet-van-de-steene/index.xml" rel="self" type="application/rss+xml" />
+    <description>Griet Van De Steene</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Griet Van De Steene</title>
+      <link>https://mrunacre.github.io/authors/griet-van-de-steene/</link>
+    </image>
+    
+    <item>
+      <title>Radio and submillimetre observations of wind structure in zeta Puppis</title>
+      <link>https://mrunacre.github.io/publication/9-da-1-fb-427-cad-461593-b-51-e-1-c-09-ccab-2-c/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/9-da-1-fb-427-cad-461593-b-51-e-1-c-09-ccab-2-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

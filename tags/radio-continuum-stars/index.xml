@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Radio continuum: stars | Mark Runacres</title>
+    <link>https://mrunacre.github.io/tags/radio-continuum-stars/</link>
+      <atom:link href="https://mrunacre.github.io/tags/radio-continuum-stars/index.xml" rel="self" type="application/rss+xml" />
+    <description>Radio continuum: stars</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2004 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Radio continuum: stars</title>
+      <link>https://mrunacre.github.io/tags/radio-continuum-stars/</link>
+    </image>
+    
+    <item>
+      <title>Radio and submillimetre observations of wind structure in zeta Puppis</title>
+      <link>https://mrunacre.github.io/publication/9-da-1-fb-427-cad-461593-b-51-e-1-c-09-ccab-2-c/</link>
+      <pubDate>Thu, 01 Jan 2004 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/9-da-1-fb-427-cad-461593-b-51-e-1-c-09-ccab-2-c/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Radio and submillimetre observations of epsilon Ori</title>
+      <link>https://mrunacre.github.io/publication/b-6096-f-9-e-89-a-94-e-8-ea-0-cd-9-a-48-e-33-e-4-bde/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/b-6096-f-9-e-89-a-94-e-8-ea-0-cd-9-a-48-e-33-e-4-bde/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Constraints on Wind Structure from the Infrared and Radio Continuum of Hot Stars</title>
+      <link>https://mrunacre.github.io/publication/32-a-323-ab-51-fa-45-ae-9-ef-5-a-28-eb-65-be-27-d/</link>
+      <pubDate>Thu, 01 Jan 1998 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/32-a-323-ab-51-fa-45-ae-9-ef-5-a-28-eb-65-be-27-d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The infrared and radio continuum of OB-stars</title>
+      <link>https://mrunacre.github.io/publication/e-8-c-4370-f-28-a-14277-affdf-415-f-44-e-73-a-6/</link>
+      <pubDate>Sat, 01 Jan 1994 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/e-8-c-4370-f-28-a-14277-affdf-415-f-44-e-73-a-6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

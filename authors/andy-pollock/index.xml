@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Andy Pollock | Mark Runacres</title>
+    <link>https://mrunacre.github.io/authors/andy-pollock/</link>
+      <atom:link href="https://mrunacre.github.io/authors/andy-pollock/index.xml" rel="self" type="application/rss+xml" />
+    <description>Andy Pollock</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Andy Pollock</title>
+      <link>https://mrunacre.github.io/authors/andy-pollock/</link>
+    </image>
+    
+    <item>
+      <title>Quasi-simultaneous XMM-Newton and VLA observation of the non-thermal radio emitter HD 168112 (O5.5III(f&#43;))</title>
+      <link>https://mrunacre.github.io/publication/73-f-2-d-23496454-e-09857-a-46-f-0273-efb-18/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/73-f-2-d-23496454-e-09857-a-46-f-0273-efb-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A multi-wavelength investigation of the non-thermal radio emitting O-star 9 Sgr</title>
+      <link>https://mrunacre.github.io/publication/342323514-d-8-d-41069-b-79-dea-59-b-60-e-784/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/342323514-d-8-d-41069-b-79-dea-59-b-60-e-784/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

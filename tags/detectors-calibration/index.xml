@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>detectors: calibration | Mark Runacres</title>
+    <link>https://mrunacre.github.io/tags/detectors-calibration/</link>
+      <atom:link href="https://mrunacre.github.io/tags/detectors-calibration/index.xml" rel="self" type="application/rss+xml" />
+    <description>detectors: calibration</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2003 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>detectors: calibration</title>
+      <link>https://mrunacre.github.io/tags/detectors-calibration/</link>
+    </image>
+    
+    <item>
+      <title>The memory effect of the ISOPHOT-C100 detector</title>
+      <link>https://mrunacre.github.io/publication/a-9-c-9-fdf-8-d-9-ea-4-dfdb-4-c-3853-a-5179-f-4-a-0/</link>
+      <pubDate>Wed, 01 Jan 2003 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/a-9-c-9-fdf-8-d-9-ea-4-dfdb-4-c-3853-a-5179-f-4-a-0/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>flutter testing | Mark Runacres</title>
+    <link>https://mrunacre.github.io/tags/flutter-testing/</link>
+      <atom:link href="https://mrunacre.github.io/tags/flutter-testing/index.xml" rel="self" type="application/rss+xml" />
+    <description>flutter testing</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Aug 2012 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>flutter testing</title>
+      <link>https://mrunacre.github.io/tags/flutter-testing/</link>
+    </image>
+    
+    <item>
+      <title>Consistent multi-input modal parameter estimators in the frequency domain</title>
+      <link>https://mrunacre.github.io/publication/17-f-9-aa-6-f-01104-d-0690840381-b-9-c-25-be-1/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/17-f-9-aa-6-f-01104-d-0690840381-b-9-c-25-be-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent developments in modal analysis and its application to flight flutter testing</title>
+      <link>https://mrunacre.github.io/publication/4-b-3-c-363-e-441641749-a-83-b-8-fdcb-1-a-2003/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/4-b-3-c-363-e-441641749-a-83-b-8-fdcb-1-a-2003/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

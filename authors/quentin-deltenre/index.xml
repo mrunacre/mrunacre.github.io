@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quentin Deltenre | Mark Runacres</title>
+    <link>https://mrunacre.github.io/authors/quentin-deltenre/</link>
+      <atom:link href="https://mrunacre.github.io/authors/quentin-deltenre/index.xml" rel="self" type="application/rss+xml" />
+    <description>Quentin Deltenre</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Dec 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Quentin Deltenre</title>
+      <link>https://mrunacre.github.io/authors/quentin-deltenre/</link>
+    </image>
+    
+    <item>
+      <title>Techno-economic comparison of rooftop-mounted PVs and small wind turbines: a case study for Brussels</title>
+      <link>https://mrunacre.github.io/publication/575731-ba-7-d-5-e-403-fb-009-fd-2-fc-1-d-5-cafa/</link>
+      <pubDate>Sun, 01 Dec 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/575731-ba-7-d-5-e-403-fb-009-fd-2-fc-1-d-5-cafa/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Installation of a Small Building-Mounted Wind Turbine: A Case Study from Idea to Implementation</title>
+      <link>https://mrunacre.github.io/publication/9-d-172167741-a-4-ffbacf-12-f-08-b-51-cbac-6/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/9-d-172167741-a-4-ffbacf-12-f-08-b-51-cbac-6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

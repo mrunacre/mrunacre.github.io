@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Steve Vanlanduit | Mark Runacres</title>
+    <link>https://mrunacre.github.io/authors/steve-vanlanduit/</link>
+      <atom:link href="https://mrunacre.github.io/authors/steve-vanlanduit/index.xml" rel="self" type="application/rss+xml" />
+    <description>Steve Vanlanduit</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jun 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Steve Vanlanduit</title>
+      <link>https://mrunacre.github.io/authors/steve-vanlanduit/</link>
+    </image>
+    
+    <item>
+      <title>New excitation and measurement techniques to integrate GVT and flight flutter testing</title>
+      <link>https://mrunacre.github.io/publication/59-bc-216-dc-3534-d-92-a-66-f-4690-efd-3-fb-8-e/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/59-bc-216-dc-3534-d-92-a-66-f-4690-efd-3-fb-8-e/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

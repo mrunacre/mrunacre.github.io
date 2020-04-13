@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Patrick Guillaume | Mark Runacres</title>
+    <link>https://mrunacre.github.io/authors/patrick-guillaume/</link>
+      <atom:link href="https://mrunacre.github.io/authors/patrick-guillaume/index.xml" rel="self" type="application/rss+xml" />
+    <description>Patrick Guillaume</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Patrick Guillaume</title>
+      <link>https://mrunacre.github.io/authors/patrick-guillaume/</link>
+    </image>
+    
+    <item>
+      <title>System identification of the kinematics of an oscillating cylinder using wake velocities</title>
+      <link>https://mrunacre.github.io/publication/67-f-0-a-5589-cc-2427-f-8-a-5-e-0-ad-71-d-5-f-9-c-7-a/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/67-f-0-a-5589-cc-2427-f-8-a-5-e-0-ad-71-d-5-f-9-c-7-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>New excitation and measurement techniques to integrate GVT and flight flutter testing</title>
+      <link>https://mrunacre.github.io/publication/59-bc-216-dc-3534-d-92-a-66-f-4690-efd-3-fb-8-e/</link>
+      <pubDate>Sat, 01 Jun 2013 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/59-bc-216-dc-3534-d-92-a-66-f-4690-efd-3-fb-8-e/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Consistent multi-input modal parameter estimators in the frequency domain</title>
+      <link>https://mrunacre.github.io/publication/17-f-9-aa-6-f-01104-d-0690840381-b-9-c-25-be-1/</link>
+      <pubDate>Wed, 01 Aug 2012 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/17-f-9-aa-6-f-01104-d-0690840381-b-9-c-25-be-1/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An investigation of the lock-in behavior of an oscillating cylinder in transverse flow</title>
+      <link>https://mrunacre.github.io/publication/bb-297-ad-44-a-1-c-44-f-38-d-6474-a-626-db-7-d-39/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/bb-297-ad-44-a-1-c-44-f-38-d-6474-a-626-db-7-d-39/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Recent developments in modal analysis and its application to flight flutter testing</title>
+      <link>https://mrunacre.github.io/publication/4-b-3-c-363-e-441641749-a-83-b-8-fdcb-1-a-2003/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/4-b-3-c-363-e-441641749-a-83-b-8-fdcb-1-a-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reliability-based Design Optimization of Computation-intensive Models Making Use of Response Surface Models</title>
+      <link>https://mrunacre.github.io/publication/c-00645747-ca-1406-fa-22-c-96-f-3260368-f-6/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/c-00645747-ca-1406-fa-22-c-96-f-3260368-f-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combined use of FRFs and transmissibility functions in an OMAX framework</title>
+      <link>https://mrunacre.github.io/publication/5747-e-29844-ac-42-abb-516-c-8-d-0-d-84977-fc/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/5747-e-29844-ac-42-abb-516-c-8-d-0-d-84977-fc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency-domain modal analysis in the OMAX framework</title>
+      <link>https://mrunacre.github.io/publication/5-d-2-f-9-a-514-f-21460-d-9453-c-57-a-96-ca-1-ea-0/</link>
+      <pubDate>Mon, 01 Feb 2010 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/5-d-2-f-9-a-514-f-21460-d-9453-c-57-a-96-ca-1-ea-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Frequency-domain modal parameter estimation in the OMAX framework</title>
+      <link>https://mrunacre.github.io/publication/e-4-ed-932-c-4-bdd-4-e-0-b-8-aea-6-d-581-d-516-e-73/</link>
+      <pubDate>Fri, 01 May 2009 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/e-4-ed-932-c-4-bdd-4-e-0-b-8-aea-6-d-581-d-516-e-73/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

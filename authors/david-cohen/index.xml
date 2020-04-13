@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Cohen | Mark Runacres</title>
+    <link>https://mrunacre.github.io/authors/david-cohen/</link>
+      <atom:link href="https://mrunacre.github.io/authors/david-cohen/index.xml" rel="self" type="application/rss+xml" />
+    <description>David Cohen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2000 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>David Cohen</title>
+      <link>https://mrunacre.github.io/authors/david-cohen/</link>
+    </image>
+    
+    <item>
+      <title>Outer Wind Evolution of Instability-Generated Clumped Structure in Hot Star Winds</title>
+      <link>https://mrunacre.github.io/publication/d-60-d-0-ef-9-fb-3-d-4-df-79-e-30677590-e-497-d-2/</link>
+      <pubDate>Sat, 01 Jan 2000 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/d-60-d-0-ef-9-fb-3-d-4-df-79-e-30677590-e-497-d-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

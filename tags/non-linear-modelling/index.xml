@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>non-linear modelling | Mark Runacres</title>
+    <link>https://mrunacre.github.io/tags/non-linear-modelling/</link>
+      <atom:link href="https://mrunacre.github.io/tags/non-linear-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <description>non-linear modelling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>non-linear modelling</title>
+      <link>https://mrunacre.github.io/tags/non-linear-modelling/</link>
+    </image>
+    
+    <item>
+      <title>A transfer function approach to model unsteady aerodynamics</title>
+      <link>https://mrunacre.github.io/publication/b-4-eaa-6-fe-316-d-445-ea-8-c-21-ef-44511295-d/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/b-4-eaa-6-fe-316-d-445-ea-8-c-21-ef-44511295-d/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

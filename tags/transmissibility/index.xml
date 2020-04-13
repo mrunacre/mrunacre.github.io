@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>transmissibility | Mark Runacres</title>
+    <link>https://mrunacre.github.io/tags/transmissibility/</link>
+      <atom:link href="https://mrunacre.github.io/tags/transmissibility/index.xml" rel="self" type="application/rss+xml" />
+    <description>transmissibility</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Sep 2010 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>transmissibility</title>
+      <link>https://mrunacre.github.io/tags/transmissibility/</link>
+    </image>
+    
+    <item>
+      <title>Combined use of FRFs and transmissibility functions in an OMAX framework</title>
+      <link>https://mrunacre.github.io/publication/5747-e-29844-ac-42-abb-516-c-8-d-0-d-84977-fc/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/5747-e-29844-ac-42-abb-516-c-8-d-0-d-84977-fc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

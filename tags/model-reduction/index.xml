@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>model reduction | Mark Runacres</title>
+    <link>https://mrunacre.github.io/tags/model-reduction/</link>
+      <atom:link href="https://mrunacre.github.io/tags/model-reduction/index.xml" rel="self" type="application/rss+xml" />
+    <description>model reduction</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>model reduction</title>
+      <link>https://mrunacre.github.io/tags/model-reduction/</link>
+    </image>
+    
+    <item>
+      <title>Decoupling multivariate polynomials for nonlinear state-space models</title>
+      <link>https://mrunacre.github.io/publication/b-6-f-60209-fd-4-d-48409-dc-300-fe-8-d-77-bced/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/b-6-f-60209-fd-4-d-48409-dc-300-fe-8-d-77-bced/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Haas | Mark Runacres</title>
+    <link>https://mrunacre.github.io/authors/martin-haas/</link>
+      <atom:link href="https://mrunacre.github.io/authors/martin-haas/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin Haas</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 1999 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Martin Haas</title>
+      <link>https://mrunacre.github.io/authors/martin-haas/</link>
+    </image>
+    
+    <item>
+      <title>ISOPHOT observations of Wolf-Rayet winds</title>
+      <link>https://mrunacre.github.io/publication/f-455-da-4-c-6-e-4443-ca-9391-ecb-8-d-54818-c-0/</link>
+      <pubDate>Fri, 01 Jan 1999 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/f-455-da-4-c-6-e-4443-ca-9391-ecb-8-d-54818-c-0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ISOPHOT Observations of Early-type Stars</title>
+      <link>https://mrunacre.github.io/publication/4828-ed-9-aa-4-f-14177868-f-3-eebc-82-b-578-a/</link>
+      <pubDate>Wed, 01 Jan 1997 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/4828-ed-9-aa-4-f-14177868-f-3-eebc-82-b-578-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

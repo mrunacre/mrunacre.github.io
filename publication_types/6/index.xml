@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>6 | Mark Runacres</title>
+    <link>https://mrunacre.github.io/publication_types/6/</link>
+      <atom:link href="https://mrunacre.github.io/publication_types/6/index.xml" rel="self" type="application/rss+xml" />
+    <description>6</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>6</title>
+      <link>https://mrunacre.github.io/publication_types/6/</link>
+    </image>
+    
+    <item>
+      <title>Experimental Characterization of VAWT Airfoils Under Turbulent Flows</title>
+      <link>https://mrunacre.github.io/publication/d-22-a-7892-e-028444281-cbf-26-d-44-a-114-fd/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/d-22-a-7892-e-028444281-cbf-26-d-44-a-114-fd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Installation of a Small Building-Mounted Wind Turbine: A Case Study from Idea to Implementation</title>
+      <link>https://mrunacre.github.io/publication/9-d-172167741-a-4-ffbacf-12-f-08-b-51-cbac-6/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/9-d-172167741-a-4-ffbacf-12-f-08-b-51-cbac-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CFD modelling and measurements of the atmospheric boundary layer for micrositing of small wind turbines</title>
+      <link>https://mrunacre.github.io/publication/24078336-c-7-d-24-d-76-a-3-f-9-c-24-df-5-ff-531-f/</link>
+      <pubDate>Sun, 01 Apr 2012 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/24078336-c-7-d-24-d-76-a-3-f-9-c-24-df-5-ff-531-f/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuclear energy and sustainable development</title>
+      <link>https://mrunacre.github.io/publication/9032-b-0-a-7786-a-4-bfb-9-df-8-b-1379-be-3-dc-33/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/9032-b-0-a-7786-a-4-bfb-9-df-8-b-1379-be-3-dc-33/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuclear energy and sustainable development</title>
+      <link>https://mrunacre.github.io/publication/a-797-f-80-f-9-ecf-46-ff-9-ea-6736-d-340-c-3790/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/a-797-f-80-f-9-ecf-46-ff-9-ea-6736-d-340-c-3790/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Comoving Frame Calculations for LAMBDA-Cephei</title>
+      <link>https://mrunacre.github.io/publication/dd-4-de-563-e-2-d-5498488834-c-12-dd-2-dcbc-2/</link>
+      <pubDate>Wed, 01 Jan 1992 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/dd-4-de-563-e-2-d-5498488834-c-12-dd-2-dcbc-2/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

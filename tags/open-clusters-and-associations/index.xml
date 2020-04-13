@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>open clusters and associations | Mark Runacres</title>
+    <link>https://mrunacre.github.io/tags/open-clusters-and-associations/</link>
+      <atom:link href="https://mrunacre.github.io/tags/open-clusters-and-associations/index.xml" rel="self" type="application/rss+xml" />
+    <description>open clusters and associations</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2002 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>open clusters and associations</title>
+      <link>https://mrunacre.github.io/tags/open-clusters-and-associations/</link>
+    </image>
+    
+    <item>
+      <title>An XMM-Newton observation of the Lagoon Nebula and the very young open cluster NGC 6530</title>
+      <link>https://mrunacre.github.io/publication/0-bab-29771-bb-343-c-19-a-6738-db-01-d-9-ca-04/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/0-bab-29771-bb-343-c-19-a-6738-db-01-d-9-ca-04/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

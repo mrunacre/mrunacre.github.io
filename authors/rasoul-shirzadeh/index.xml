@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rasoul Shirzadeh | Mark Runacres</title>
+    <link>https://mrunacre.github.io/authors/rasoul-shirzadeh/</link>
+      <atom:link href="https://mrunacre.github.io/authors/rasoul-shirzadeh/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rasoul Shirzadeh</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Aug 2013 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Rasoul Shirzadeh</title>
+      <link>https://mrunacre.github.io/authors/rasoul-shirzadeh/</link>
+    </image>
+    
+    <item>
+      <title>System identification of the kinematics of an oscillating cylinder using wake velocities</title>
+      <link>https://mrunacre.github.io/publication/67-f-0-a-5589-cc-2427-f-8-a-5-e-0-ad-71-d-5-f-9-c-7-a/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/67-f-0-a-5589-cc-2427-f-8-a-5-e-0-ad-71-d-5-f-9-c-7-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An investigation of the lock-in behavior of an oscillating cylinder in transverse flow</title>
+      <link>https://mrunacre.github.io/publication/bb-297-ad-44-a-1-c-44-f-38-d-6474-a-626-db-7-d-39/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/bb-297-ad-44-a-1-c-44-f-38-d-6474-a-626-db-7-d-39/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

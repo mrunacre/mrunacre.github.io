@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blockage | Mark Runacres</title>
+    <link>https://mrunacre.github.io/tags/blockage/</link>
+      <atom:link href="https://mrunacre.github.io/tags/blockage/index.xml" rel="self" type="application/rss+xml" />
+    <description>Blockage</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Blockage</title>
+      <link>https://mrunacre.github.io/tags/blockage/</link>
+    </image>
+    
+    <item>
+      <title>Effect of turbulence on the performance of VAWTs: An experimental study in two different wind tunnels</title>
+      <link>https://mrunacre.github.io/publication/fc-241-dd-9-dfd-644-da-87295-df-737-fb-3-c-7-c/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/fc-241-dd-9-dfd-644-da-87295-df-737-fb-3-c-7-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

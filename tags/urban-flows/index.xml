@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Urban flows | Mark Runacres</title>
+    <link>https://mrunacre.github.io/tags/urban-flows/</link>
+      <atom:link href="https://mrunacre.github.io/tags/urban-flows/index.xml" rel="self" type="application/rss+xml" />
+    <description>Urban flows</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Urban flows</title>
+      <link>https://mrunacre.github.io/tags/urban-flows/</link>
+    </image>
+    
+    <item>
+      <title>Experimental Characterization of VAWT Airfoils Under Turbulent Flows</title>
+      <link>https://mrunacre.github.io/publication/d-22-a-7892-e-028444281-cbf-26-d-44-a-114-fd/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/d-22-a-7892-e-028444281-cbf-26-d-44-a-114-fd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Effect of turbulence on the performance of VAWTs: An experimental study in two different wind tunnels</title>
+      <link>https://mrunacre.github.io/publication/fc-241-dd-9-dfd-644-da-87295-df-737-fb-3-c-7-c/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/fc-241-dd-9-dfd-644-da-87295-df-737-fb-3-c-7-c/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>System identification | Mark Runacres</title>
+    <link>https://mrunacre.github.io/tags/system-identification/</link>
+      <atom:link href="https://mrunacre.github.io/tags/system-identification/index.xml" rel="self" type="application/rss+xml" />
+    <description>System identification</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>System identification</title>
+      <link>https://mrunacre.github.io/tags/system-identification/</link>
+    </image>
+    
+    <item>
+      <title>Nonlinear state-space modelling of the kinematics of an oscillating circular cylinder in a fluid flow</title>
+      <link>https://mrunacre.github.io/publication/f-8-c-1-ce-76-c-7504-ca-2-bb-84859-d-43325-aeb/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/f-8-c-1-ce-76-c-7504-ca-2-bb-84859-d-43325-aeb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>System identification of the kinematics of an oscillating cylinder using wake velocities</title>
+      <link>https://mrunacre.github.io/publication/67-f-0-a-5589-cc-2427-f-8-a-5-e-0-ad-71-d-5-f-9-c-7-a/</link>
+      <pubDate>Thu, 01 Aug 2013 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/67-f-0-a-5589-cc-2427-f-8-a-5-e-0-ad-71-d-5-f-9-c-7-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

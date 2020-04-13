@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Marco Pröhl | Mark Runacres</title>
+    <link>https://mrunacre.github.io/authors/marco-prohl/</link>
+      <atom:link href="https://mrunacre.github.io/authors/marco-prohl/index.xml" rel="self" type="application/rss+xml" />
+    <description>Marco Pröhl</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Marco Pröhl</title>
+      <link>https://mrunacre.github.io/authors/marco-prohl/</link>
+    </image>
+    
+    <item>
+      <title>Design of a hydroformed metal blade for vertical-axis wind turbines</title>
+      <link>https://mrunacre.github.io/publication/0-b-8-c-276-b-95-c-54-c-2-c-8-e-29-b-0-a-4159724-eb/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/0-b-8-c-276-b-95-c-54-c-2-c-8-e-29-b-0-a-4159724-eb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing blade manufacturing cost while maintaining aerodynamic performance of Vertical Axis Wind Turbines</title>
+      <link>https://mrunacre.github.io/publication/50-f-4667-a-478544-dab-6256-c-637588420-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/50-f-4667-a-478544-dab-6256-c-637588420-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

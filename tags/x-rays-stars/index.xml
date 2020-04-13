@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>X-rays: stars | Mark Runacres</title>
+    <link>https://mrunacre.github.io/tags/x-rays-stars/</link>
+      <atom:link href="https://mrunacre.github.io/tags/x-rays-stars/index.xml" rel="self" type="application/rss+xml" />
+    <description>X-rays: stars</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>X-rays: stars</title>
+      <link>https://mrunacre.github.io/tags/x-rays-stars/</link>
+    </image>
+    
+    <item>
+      <title>An XMM-Newton observation of the multiple system HD 167971 (O5-8V &#43; O5-8V &#43; (O8I)) and the young open cluster NGC 6604</title>
+      <link>https://mrunacre.github.io/publication/3-a-4-ad-55-a-0-e-0-e-4-b-01-a-27-f-846-c-44-abe-17-b/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/3-a-4-ad-55-a-0-e-0-e-4-b-01-a-27-f-846-c-44-abe-17-b/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Quasi-simultaneous XMM-Newton and VLA observation of the non-thermal radio emitter HD 168112 (O5.5III(f&#43;))</title>
+      <link>https://mrunacre.github.io/publication/73-f-2-d-23496454-e-09857-a-46-f-0273-efb-18/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/73-f-2-d-23496454-e-09857-a-46-f-0273-efb-18/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An XMM-Newton observation of the Lagoon Nebula and the very young open cluster NGC 6530</title>
+      <link>https://mrunacre.github.io/publication/0-bab-29771-bb-343-c-19-a-6738-db-01-d-9-ca-04/</link>
+      <pubDate>Tue, 01 Jan 2002 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/0-bab-29771-bb-343-c-19-a-6738-db-01-d-9-ca-04/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

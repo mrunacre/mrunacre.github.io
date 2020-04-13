@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Christof Devriendt | Mark Runacres</title>
+    <link>https://mrunacre.github.io/authors/christof-devriendt/</link>
+      <atom:link href="https://mrunacre.github.io/authors/christof-devriendt/index.xml" rel="self" type="application/rss+xml" />
+    <description>Christof Devriendt</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Christof Devriendt</title>
+      <link>https://mrunacre.github.io/authors/christof-devriendt/</link>
+    </image>
+    
+    <item>
+      <title>Recent developments in modal analysis and its application to flight flutter testing</title>
+      <link>https://mrunacre.github.io/publication/4-b-3-c-363-e-441641749-a-83-b-8-fdcb-1-a-2003/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/4-b-3-c-363-e-441641749-a-83-b-8-fdcb-1-a-2003/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Combined use of FRFs and transmissibility functions in an OMAX framework</title>
+      <link>https://mrunacre.github.io/publication/5747-e-29844-ac-42-abb-516-c-8-d-0-d-84977-fc/</link>
+      <pubDate>Wed, 01 Sep 2010 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/5747-e-29844-ac-42-abb-516-c-8-d-0-d-84977-fc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

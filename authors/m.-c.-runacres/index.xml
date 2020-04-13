@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>M. C. Runacres | Mark Runacres</title>
+    <link>https://mrunacre.github.io/authors/m.-c.-runacres/</link>
+      <atom:link href="https://mrunacre.github.io/authors/m.-c.-runacres/index.xml" rel="self" type="application/rss+xml" />
+    <description>M. C. Runacres</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>M. C. Runacres</title>
+      <link>https://mrunacre.github.io/authors/m.-c.-runacres/</link>
+    </image>
+    
+    <item>
+      <title>System identification of the kinematics of a cylinder subjected to vortex-induced vibrations</title>
+      <link>https://mrunacre.github.io/publication/1-ee-71-a-0-c-824-a-41-e-1-b-9-ccfa-4084-f-543-e-0/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/1-ee-71-a-0-c-824-a-41-e-1-b-9-ccfa-4084-f-543-e-0/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philippe Eenens | Mark Runacres</title>
+    <link>https://mrunacre.github.io/authors/philippe-eenens/</link>
+      <atom:link href="https://mrunacre.github.io/authors/philippe-eenens/index.xml" rel="self" type="application/rss+xml" />
+    <description>Philippe Eenens</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Philippe Eenens</title>
+      <link>https://mrunacre.github.io/authors/philippe-eenens/</link>
+    </image>
+    
+    <item>
+      <title>Quasi-simultaneous XMM-Newton and VLA observation of the non-thermal radio emitter HD 168112 (O5.5III(f&#43;))</title>
+      <link>https://mrunacre.github.io/publication/73-f-2-d-23496454-e-09857-a-46-f-0273-efb-18/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/73-f-2-d-23496454-e-09857-a-46-f-0273-efb-18/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

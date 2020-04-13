@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gunther Steenackers | Mark Runacres</title>
+    <link>https://mrunacre.github.io/authors/gunther-steenackers/</link>
+      <atom:link href="https://mrunacre.github.io/authors/gunther-steenackers/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gunther Steenackers</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Gunther Steenackers</title>
+      <link>https://mrunacre.github.io/authors/gunther-steenackers/</link>
+    </image>
+    
+    <item>
+      <title>Reliability-based Design Optimization of Computation-intensive Models Making Use of Response Surface Models</title>
+      <link>https://mrunacre.github.io/publication/c-00645747-ca-1406-fa-22-c-96-f-3260368-f-6/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/c-00645747-ca-1406-fa-22-c-96-f-3260368-f-6/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

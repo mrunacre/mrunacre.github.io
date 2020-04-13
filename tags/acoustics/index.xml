@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>acoustics | Mark Runacres</title>
+    <link>https://mrunacre.github.io/tags/acoustics/</link>
+      <atom:link href="https://mrunacre.github.io/tags/acoustics/index.xml" rel="self" type="application/rss+xml" />
+    <description>acoustics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2011 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>acoustics</title>
+      <link>https://mrunacre.github.io/tags/acoustics/</link>
+    </image>
+    
+    <item>
+      <title>An investigation of the lock-in behavior of an oscillating cylinder in transverse flow</title>
+      <link>https://mrunacre.github.io/publication/bb-297-ad-44-a-1-c-44-f-38-d-6474-a-626-db-7-d-39/</link>
+      <pubDate>Sat, 01 Jan 2011 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/bb-297-ad-44-a-1-c-44-f-38-d-6474-a-626-db-7-d-39/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

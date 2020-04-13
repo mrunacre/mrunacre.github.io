@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>nonlinear polynomial state space modelling | Mark Runacres</title>
+    <link>https://mrunacre.github.io/tags/nonlinear-polynomial-state-space-modelling/</link>
+      <atom:link href="https://mrunacre.github.io/tags/nonlinear-polynomial-state-space-modelling/index.xml" rel="self" type="application/rss+xml" />
+    <description>nonlinear polynomial state space modelling</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>nonlinear polynomial state space modelling</title>
+      <link>https://mrunacre.github.io/tags/nonlinear-polynomial-state-space-modelling/</link>
+    </image>
+    
+    <item>
+      <title>Development of a nonlinear state space model of the forces acting on an aerofoil oscillating in pitch</title>
+      <link>https://mrunacre.github.io/publication/67-c-7-d-960-c-24-d-4-a-678-f-289-c-2154581-f-6-a/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/67-c-7-d-960-c-24-d-4-a-678-f-289-c-2154581-f-6-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

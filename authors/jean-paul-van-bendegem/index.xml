@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jean Paul Van Bendegem | Mark Runacres</title>
+    <link>https://mrunacre.github.io/authors/jean-paul-van-bendegem/</link>
+      <atom:link href="https://mrunacre.github.io/authors/jean-paul-van-bendegem/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jean Paul Van Bendegem</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jean Paul Van Bendegem</title>
+      <link>https://mrunacre.github.io/authors/jean-paul-van-bendegem/</link>
+    </image>
+    
+    <item>
+      <title>Duurzame ontwikkeling en beslissen in grote onzekerheid</title>
+      <link>https://mrunacre.github.io/publication/801323-da-5-f-1343-ff-9-df-1-d-3-d-2-b-6-c-4-e-051/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/801323-da-5-f-1343-ff-9-df-1-d-3-d-2-b-6-c-4-e-051/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuclear energy and sustainable development</title>
+      <link>https://mrunacre.github.io/publication/9032-b-0-a-7786-a-4-bfb-9-df-8-b-1379-be-3-dc-33/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/9032-b-0-a-7786-a-4-bfb-9-df-8-b-1379-be-3-dc-33/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nuclear energy and sustainable development</title>
+      <link>https://mrunacre.github.io/publication/a-797-f-80-f-9-ecf-46-ff-9-ea-6736-d-340-c-3790/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/a-797-f-80-f-9-ecf-46-ff-9-ea-6736-d-340-c-3790/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

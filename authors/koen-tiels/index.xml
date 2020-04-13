@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Koen Tiels | Mark Runacres</title>
+    <link>https://mrunacre.github.io/authors/koen-tiels/</link>
+      <atom:link href="https://mrunacre.github.io/authors/koen-tiels/index.xml" rel="self" type="application/rss+xml" />
+    <description>Koen Tiels</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 01 May 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Koen Tiels</title>
+      <link>https://mrunacre.github.io/authors/koen-tiels/</link>
+    </image>
+    
+    <item>
+      <title>Decoupling multivariate polynomials for nonlinear state-space models</title>
+      <link>https://mrunacre.github.io/publication/b-6-f-60209-fd-4-d-48409-dc-300-fe-8-d-77-bced/</link>
+      <pubDate>Wed, 01 May 2019 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/b-6-f-60209-fd-4-d-48409-dc-300-fe-8-d-77-bced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear state-space modelling of the kinematics of an oscillating circular cylinder in a fluid flow</title>
+      <link>https://mrunacre.github.io/publication/f-8-c-1-ce-76-c-7504-ca-2-bb-84859-d-43325-aeb/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/f-8-c-1-ce-76-c-7504-ca-2-bb-84859-d-43325-aeb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear state-space modelling of the kinematics of an oscillating circular cylinder in a fluid flow</title>
+      <link>https://mrunacre.github.io/publication/43602225-b-08-e-49-aaa-5-a-96-a-9-e-5822-d-664/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/43602225-b-08-e-49-aaa-5-a-96-a-9-e-5822-d-664/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear identification of vortex-induced oscillators</title>
+      <link>https://mrunacre.github.io/publication/58-b-3-a-091-d-3-f-84-d-97-afe-1-a-3058-f-5612-b-4/</link>
+      <pubDate>Tue, 01 Mar 2016 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/58-b-3-a-091-d-3-f-84-d-97-afe-1-a-3058-f-5612-b-4/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nonlinear identification of autonomous oscillators</title>
+      <link>https://mrunacre.github.io/publication/28-bdf-402-aca-84-dc-0936279-a-35354-fdd-7/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/28-bdf-402-aca-84-dc-0936279-a-35354-fdd-7/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

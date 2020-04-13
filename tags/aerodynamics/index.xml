@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>aerodynamics | Mark Runacres</title>
+    <link>https://mrunacre.github.io/tags/aerodynamics/</link>
+      <atom:link href="https://mrunacre.github.io/tags/aerodynamics/index.xml" rel="self" type="application/rss+xml" />
+    <description>aerodynamics</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Sep 2018 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>aerodynamics</title>
+      <link>https://mrunacre.github.io/tags/aerodynamics/</link>
+    </image>
+    
+    <item>
+      <title>Development of a nonlinear state space model of the forces acting on an aerofoil oscillating in pitch</title>
+      <link>https://mrunacre.github.io/publication/67-c-7-d-960-c-24-d-4-a-678-f-289-c-2154581-f-6-a/</link>
+      <pubDate>Sat, 01 Sep 2018 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/67-c-7-d-960-c-24-d-4-a-678-f-289-c-2154581-f-6-a/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wake predictions of full HAWT rotor and actuator disk model CFD simulations using different RANS turbulence models compared to experimental measurements</title>
+      <link>https://mrunacre.github.io/publication/1-f-7-aab-097-b-8-e-4-ebab-7-f-389-be-1-e-3-b-7-dee/</link>
+      <pubDate>Wed, 01 Mar 2017 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/1-f-7-aab-097-b-8-e-4-ebab-7-f-389-be-1-e-3-b-7-dee/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

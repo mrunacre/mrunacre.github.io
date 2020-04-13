@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Frank Deconinck | Mark Runacres</title>
+    <link>https://mrunacre.github.io/authors/frank-deconinck/</link>
+      <atom:link href="https://mrunacre.github.io/authors/frank-deconinck/index.xml" rel="self" type="application/rss+xml" />
+    <description>Frank Deconinck</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2006 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Frank Deconinck</title>
+      <link>https://mrunacre.github.io/authors/frank-deconinck/</link>
+    </image>
+    
+    <item>
+      <title>Nuclear energy and sustainable development</title>
+      <link>https://mrunacre.github.io/publication/9032-b-0-a-7786-a-4-bfb-9-df-8-b-1379-be-3-dc-33/</link>
+      <pubDate>Sun, 01 Jan 2006 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/9032-b-0-a-7786-a-4-bfb-9-df-8-b-1379-be-3-dc-33/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

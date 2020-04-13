@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Vertical axis wind turbine | Mark Runacres</title>
+    <link>https://mrunacre.github.io/tags/vertical-axis-wind-turbine/</link>
+      <atom:link href="https://mrunacre.github.io/tags/vertical-axis-wind-turbine/index.xml" rel="self" type="application/rss+xml" />
+    <description>Vertical axis wind turbine</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Vertical axis wind turbine</title>
+      <link>https://mrunacre.github.io/tags/vertical-axis-wind-turbine/</link>
+    </image>
+    
+    <item>
+      <title>Experimental validation of the power enhancement of a pair of vertical-axis wind turbines</title>
+      <link>https://mrunacre.github.io/publication/1817-d-424-fbb-54-a-8-fb-65-bb-2-c-31-cc-13-d-24/</link>
+      <pubDate>Sat, 01 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/1817-d-424-fbb-54-a-8-fb-65-bb-2-c-31-cc-13-d-24/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Optimizing land use for wind farms using vertical axis wind turbines</title>
+      <link>https://mrunacre.github.io/publication/1-fe-42450587040-b-1960-f-0-f-197316-bdb-6/</link>
+      <pubDate>Sat, 01 Mar 2014 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/1-fe-42450587040-b-1960-f-0-f-197316-bdb-6/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Reducing blade manufacturing cost while maintaining aerodynamic performance of Vertical Axis Wind Turbines</title>
+      <link>https://mrunacre.github.io/publication/50-f-4667-a-478544-dab-6256-c-637588420-a/</link>
+      <pubDate>Wed, 01 Jan 2014 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/50-f-4667-a-478544-dab-6256-c-637588420-a/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jessica Chapman | Mark Runacres</title>
+    <link>https://mrunacre.github.io/authors/jessica-chapman/</link>
+      <atom:link href="https://mrunacre.github.io/authors/jessica-chapman/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jessica Chapman</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2005 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Jessica Chapman</title>
+      <link>https://mrunacre.github.io/authors/jessica-chapman/</link>
+    </image>
+    
+    <item>
+      <title>Non-thermal radio emission from O-type stars. I. HD168112</title>
+      <link>https://mrunacre.github.io/publication/6-c-1-f-9-b-7239-f-042408624-f-081-be-422537/</link>
+      <pubDate>Sat, 01 Jan 2005 00:00:00 +0000</pubDate>
+      <guid>https://mrunacre.github.io/publication/6-c-1-f-9-b-7239-f-042408624-f-081-be-422537/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
