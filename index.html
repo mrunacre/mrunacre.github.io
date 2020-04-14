@@ -210,6 +210,11 @@
 
 
   
+  
+  <script src="https://identity.netlify.com/v1/netlify-identity-widget.js"></script>
+  
+
+  
   <link rel="alternate" href="/index.xml" type="application/rss+xml" title="Mark Runacres">
   
 
@@ -224,6 +229,8 @@
   
   
   
+  
+  
     
     
   
@@ -233,8 +240,8 @@
   <meta property="og:site_name" content="Mark Runacres">
   <meta property="og:url" content="https://mrunacre.github.io/">
   <meta property="og:title" content="Mark Runacres">
-  <meta property="og:description" content="Professor of Fluid Dynamics"><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
-  <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
+  <meta property="og:description" content="Professor of Fluid Dynamics"><meta property="og:image" content="https://mrunacre.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png">
+  <meta property="twitter:image" content="https://mrunacre.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png"><meta property="og:locale" content="en-us">
   
     <meta property="og:updated_time" content="2020-04-10T00:00:00&#43;00:00">
   
@@ -1723,6 +1730,21 @@ Both Antoine and Greeshma are supervised by
     
 
     
+    
+
+    
+    
+    <script>
+      if (window.netlifyIdentity) {
+        window.netlifyIdentity.on("init", user => {
+          if (!user) {
+            window.netlifyIdentity.on("login", () => {
+              document.location.href = "/admin/";
+            });
+          }
+        });
+      }
+    </script>
     
 
     
